@@ -1,8 +1,10 @@
-# React + Vite
+Frontend link:
+https://classy-fudge-ee243a.netlify.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Backend git repo:
+https://github.com/shreekantyadav007/videoStream.git
 
-Currently, two official plugins are available:
+Backend deploy link:
+https://videostream-cfrx.onrender.com
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/user-attachments/assets/b73641ea-0c91-460d-9237-1eefd871a261)
