@@ -1,5 +1,5 @@
 Frontend link:
-https://classy-fudge-ee243a.netlify.app/ (open link and type 'sample' to stream video)
+https://classy-fudge-ee243a.netlify.app/ (open link and type 'sample' to stream video and it may require 50 sec for first request as it is on render)
 
 Backend git repo:
 https://github.com/shreekantyadav007/videoStream.git
